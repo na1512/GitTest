@@ -22,5 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
         android:layout_marginTop="103dp"
-        android:id="@+id/button" />
+        android:id="@+id/button"
+        android:onClick="onButton1" />
 </RelativeLayout>
